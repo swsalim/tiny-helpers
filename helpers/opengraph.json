@@ -1,9 +1,8 @@
 {
   "name": "Opengraph",
-  "desc": "Preview and generate open graph meta tags for your website",
+  "desc": "Social share preview and analyzer for your website",
   "url": "https://www.opengraph.xyz/",
   "tags": [
-    "Generated Data",
     "HTML",
     "SEO"
   ],
